@@ -4,3 +4,4 @@ venv
 **/*.png
 **/*.tif
 **/*.tfrecord
+**/*.webp
