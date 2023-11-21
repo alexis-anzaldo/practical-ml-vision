@@ -3,3 +3,4 @@ venv
 **/*.jpeg
 **/*.png
 **/*.tif
+**/*.tfrecord
