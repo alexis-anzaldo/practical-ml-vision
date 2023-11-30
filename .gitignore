@@ -5,3 +5,5 @@ venv
 **/*.tif
 **/*.tfrecord
 **/*.webp
+Test.ipynb
+
